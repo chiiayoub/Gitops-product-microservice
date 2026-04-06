@@ -44,8 +44,7 @@ Deployment → ReplicaSet → Pods → Service
 4. Kubernetes applies the changes
 5. Application updates without manual intervention
 
-   
-   <img width="1897" height="883" alt="image" src="https://github.com/user-attachments/assets/1c10af4d-4d83-4667-84b3-9785af95157d" />
+<img width="1897" height="883" alt="image" src="https://github.com/user-attachments/assets/1c10af4d-4d83-4667-84b3-9785af95157d" />
 
 
 ---
@@ -59,14 +58,6 @@ Deployment → ReplicaSet → Pods → Service
 * 📁 Infrastructure as Code (IaC)
 
 ---
-
-## 🛠️ Project Structure
-
-product-k8s/
-├── namespace.yaml
-├── deployment.yaml
-├── service.yaml
-└── application.yaml
 
 ---
 
